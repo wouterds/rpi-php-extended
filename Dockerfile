@@ -1,4 +1,4 @@
-FROM wouterds/rpi-php:7.0.17
+FROM wouterds/rpi-php:7.1.3
 MAINTAINER Wouter De Schuyter <wouter.de.schuyter@gmail.com>
 
 # Enable cross build
