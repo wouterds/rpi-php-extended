@@ -5,7 +5,7 @@ A basic PHP image with some pre-installed extensions that's compatible with Rasp
 ### Supported tags and respective `Dockerfile` links
 
 - [`7.1.3`](https://github.com/wouterds/rpi-php/tree/7.1.3/Dockerfile), [`7.1.4`](https://github.com/wouterds/rpi-php/tree/7.1.4/Dockerfile), [`7.1.5`, `7.1`, `latest` (*Dockerfile*)](https://github.com/wouterds/rpi-php/tree/7.1.5/Dockerfile)
-- [`7.0.13`](https://github.com/wouterds/rpi-php/tree/7.0.13/Dockerfile), [`7.0.16`](https://github.com/wouterds/rpi-php/tree/7.0.16/Dockerfile), [`7.0.17`, `7.0`, `latest` (*Dockerfile*)](https://github.com/wouterds/rpi-php/tree/7.0.17/Dockerfile)
+- [`7.0.16`](https://github.com/wouterds/rpi-php/tree/7.0.16/Dockerfile), [`7.0.17`](https://github.com/wouterds/rpi-php/tree/7.0.17/Dockerfile), [`7.0.18`, `7.0`, `latest` (*Dockerfile*)](https://github.com/wouterds/rpi-php/tree/7.0.18/Dockerfile)
 
 ### What is PHP?
 
